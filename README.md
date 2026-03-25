@@ -4,8 +4,7 @@
   
   [![Dataset](https://img.shields.io/badge/Dataset-HYGD-blue.svg)](https://physionet.org)
   [![PyTorch](https://img.shields.io/badge/PyTorch-🔥-red.svg)](https://pytorch.org/)
-  [![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg)](https://www.python.org/)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
+  [![Python](https://img.shields.io/badge/Python-3.11+-yellow.svg)](https://www.python.org/)
 </div>
 
 <br/>
